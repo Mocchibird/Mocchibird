@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JungerMin
-- 👀 I’m interested in learning Programming
+- 👀 I’m interested in gaming
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me jungermin.github@gmail.com
 
