@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JungerMin
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning for the AWS Solutions Architect Associate certification
+- 🌱 I’m currently studying for the AWS Solutions Architect Associate certification
 - 📫 How to reach me jungermin.github@gmail.com
 
 <!---
