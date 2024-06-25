@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JungerMin
+- 👋 Hi, I’m @Mocchibird
 - 👀 I’m interested in gaming
 - 🌱 I’m currently studying for the AWS Solutions Architect Associate certification
 
