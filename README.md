@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mocchibird
 - 👀 I’m interested in gaming
-- 🌱 I’m currently studying for the AWS Solutions Architect Associate certification
+
+- AWS Solutions Architect Associate
 
 <!---
 JungerMin/JungerMin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
